@@ -1,0 +1,20 @@
+header.header {
+  display: flex;
+  height: 105px;
+  /* padding: 30px 15px 20px; */
+  justify-content: center;
+  align-items: center;
+}
+header.header h1 {
+  font-weight: 800;
+  text-transform: uppercase;
+  display: flex;
+  margin: 0;
+}
+header.header svg{
+  margin: 0 10px;
+}
+
+header.header svg>g{
+  width: 100%;
+}
