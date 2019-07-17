@@ -1,5 +1,7 @@
 # Techmind
 
+![Simple react application to list and save the technologies you know](./techmind-logo.jpg "TechMind - Simple react application to list and save the technologies you know")
+
 ## Simple react application to list and save the technologies you know.
 
 Application developed for module 04 of the GoStak bootcamp, promoted by [Rocketseat](http://www.rocketseat.com.br).
