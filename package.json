@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "http://gustavom.github.io/techmind",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production",
-    "dev": "webpack-dev-server --mode development"
+    "dev": "webpack-dev-server --mode development",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d public" 
   },
   "keywords": [],
   "author": "",
