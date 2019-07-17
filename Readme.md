@@ -1,6 +1,6 @@
-# Techmind
+# [Techmind](https://gustavom.github.io/techmind/)
 
-![Simple react application to list and save the technologies you know](./techmind-logo.jpg "TechMind - Simple react application to list and save the technologies you know")
+[![Simple react application to list and save the technologies you know](./techmind-logo.jpg "TechMind - Simple react application to list and save the technologies you know")](https://gustavom.github.io/techmind/)
 
 ## Simple react application to list and save the technologies you know.
 
